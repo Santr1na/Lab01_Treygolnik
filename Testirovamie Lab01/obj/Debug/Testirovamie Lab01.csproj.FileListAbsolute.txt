@@ -1,0 +1,15 @@
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\bin\Debug\Testirovamie Lab01.exe.config
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\bin\Debug\Testirovamie Lab01.exe
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\bin\Debug\Testirovamie Lab01.pdb
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\obj\Debug\Testirovamie Lab01.csproj.AssemblyReference.cache
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\obj\Debug\MainWindow.g.cs
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\obj\Debug\App.g.cs
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\obj\Debug\Testirovamie Lab01_MarkupCompile.cache
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\obj\Debug\Testirovamie Lab01_MarkupCompile.lref
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\obj\Debug\MainWindow.baml
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\obj\Debug\Testirovamie Lab01.g.resources
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\obj\Debug\Testirovamie_Lab01.Properties.Resources.resources
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\obj\Debug\Testirovamie Lab01.csproj.GenerateResource.cache
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\obj\Debug\Testirovamie Lab01.csproj.CoreCompileInputs.cache
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\obj\Debug\Testirovamie Lab01.exe
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\obj\Debug\Testirovamie Lab01.pdb
